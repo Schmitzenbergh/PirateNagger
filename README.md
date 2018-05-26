@@ -1,6 +1,5 @@
 PirateNagger
 =================
-----------
 A very simple bot that, for now, sends a message to a certain channel when user ThePirate is changing his/her status on TheNightWatch.
 
 Dependencies
